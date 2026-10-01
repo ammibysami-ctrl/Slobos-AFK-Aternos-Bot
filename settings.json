@@ -1,15 +1,15 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "AfkBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "RexonSMP-Icn9.aternos.me",
+    "port": 13232,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Yo Wsg",
+        "Owner Is CraftyCarrot",
+        "Who is the Mace Wielder"
       ]
     },
     "chat-log": true,
@@ -69,8 +69,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
