@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "RexonSMP-Icn9.aternos.me",
-    "port": 13232,
+    "ip": "rexonsmp.playwithbao.com",
+    "port": 32021,
     "version": "",
     "try-creative": true
   },
