@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 30,
       "messages": [
         "Yo Wsg",
-        "Owner Is CraftyCarrot",
-        "Who is the Mace Wielder"
+        "Rift_Slayer I Hate You",
+        "Rift Get better"
       ]
     },
     "chat-log": true,
